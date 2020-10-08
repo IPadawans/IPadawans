@@ -14,7 +14,7 @@
 const girolneto = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, Groovy],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker, Express, Adonis],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker, Express, Adonis, NestJS, React Hooks, TypeORM, Graphql],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the Rocketseat Bootcamp challenge focused on react and typescript"
 }
