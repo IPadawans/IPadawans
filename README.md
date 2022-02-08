@@ -1,6 +1,6 @@
 <h2> Hi, I'm Marcus Vinicius Girolneto Sousa! <img src="https://24.media.tumblr.com/09b4b95971296f1c9e6ef6791f257923/tumblr_n52i8b1tUA1s2t3cto1_500.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/hyBjcpooaAwuY/200.gif" width="230">
-<p><em>Computer Enginner at <a href="https://www.pucgoias.edu.br/">Pontifical Catholic University of Goiás</a><img src="https://media.tenor.com/images/47597d74a785476bc90e226af40e7b1d/tenor.gif" width="30"></br>Full Stack Developer at <a href="https://zgsolucoes.com.br/">ZG Soluções</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Enginner at <a href="https://www.pucgoias.edu.br/">Pontifical Catholic University of Goiás</a><img src="https://media.tenor.com/images/47597d74a785476bc90e226af40e7b1d/tenor.gif" width="30"></br>Full Stack Developer at <a href="https://pagseguro.uol.com.br">Pag Seguro</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Marcus Girolneto](https://img.shields.io/twitter/follow/Marcus_Vini_SEP?style=social)](https://twitter.com/Marcus_Vini_SEP)
@@ -13,10 +13,10 @@
 ```javascript
 const girolneto = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, Groovy],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, Groovy, Kotlin],
   tools: [React, Redux, Node, Styled-Components, Jest, Docker, Express, Adonis, NestJS, React Hooks, TypeORM, Graphql],
   architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the Rocketseat Bootcamp challenge focused on react and typescript"
+ challenge: "Everything about new technologies challenge me ..."
 }
 ```
 
